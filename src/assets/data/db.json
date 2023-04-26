@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "firstName": "Mehak",
+      "lastName": "Ali",
+      "birthDate": "2000-09-09",
+      "gender": "f",
+      "education": "Diploma",
+      "company": "Infosys",
+      "jobExperience": 1,
+      "salary": "6,00,000",
+      "profile": "preethi.jpg",
+      "id": 4
+    },
+    {
+      "firstName": "Kim",
+      "lastName": "Chi",
+      "birthDate": "1992-07-14",
+      "gender": "f",
+      "education": "UnderGraduate",
+      "company": "Tesla",
+      "jobExperience": 4,
+      "salary": "30,00,000",
+      "profile": "kim.jpg",
+      "id": 6
+    },
+    {
+      "firstName": "Viral",
+      "lastName": "Khoti",
+      "birthDate": "1989-01-01",
+      "gender": "m",
+      "education": "10th Grade",
+      "company": "BCCI",
+      "jobExperience": 14,
+      "salary": "1,00,00,000",
+      "profile": "mohit.jpg",
+      "id": 7
+    },
+    {
+      "firstName": "priya",
+      "lastName": "varma",
+      "birthDate": "1994-01-12",
+      "gender": "f",
+      "education": "PostGraduate",
+      "company": "Luminar",
+      "jobExperience": 6,
+      "salary": "13,00,000",
+      "profile": "sneha.jpg",
+      "id": 8
+    },
+    {
+      "firstName": "Don",
+      "lastName": "bosco",
+      "birthDate": "1988-12-12",
+      "gender": "m",
+      "education": "UnderGraduate",
+      "company": "Walmart",
+      "jobExperience": 14,
+      "salary": "14,00,000",
+      "profile": "alvin.jpg",
+      "id": 9
+    },
+    {
+      "firstName": "Anto",
+      "lastName": "jose",
+      "birthDate": "1978-05-22",
+      "gender": "m",
+      "education": "PostGraduate",
+      "company": "Couchbase",
+      "jobExperience": 20,
+      "salary": "35,00,000",
+      "profile": "zahid.jpg",
+      "id": 10
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

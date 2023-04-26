@@ -1,0 +1,45 @@
+
+
+main{
+    width:90%;
+    margin: 3rem auto 0px;
+    
+}
+.toolbar{
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    align-items: center;
+}
+
+.regform{
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+app-display-employee{
+    display: block;
+    width: 75%;
+    margin: 0px auto;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 2rem;
+
+}
+
+.functions{
+    padding: 2%;
+    border-radius: 3rem;
+    width: 50%;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.search-box{
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.landingImage{
+    background-size:cover;
+}
+
+.productDemo{
+    transform: translate(100px,-160px);
+}

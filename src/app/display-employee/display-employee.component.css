@@ -1,0 +1,26 @@
+img{
+    width: 75%;
+    height: 370px;
+    border-radius: 1rem;
+}
+
+table{
+    width:100%
+}
+
+.name{
+    font-size: 2rem;
+    font-weight: 600;
+    font-style: italic;
+    font-family: 'Lexend Deca', sans-serif;
+    border: 0px;
+    border-radius: 10px;
+    padding: 0px 2rem;
+    color: rgb(0, 0, 0);
+    background-color: rgb(229, 221, 221);
+}
+
+.employeeCard{
+    background-color: white;
+    border-radius: 2rem;
+}
